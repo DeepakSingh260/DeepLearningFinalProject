@@ -15,7 +15,7 @@ We utilize a dataset with over 100,000 instances, categorized into human-generat
 - [Kaggle LLM - Detect AI Generated Text Competition](https://www.kaggle.com/competitions/llm-detect-ai-generated-text/data)
 
 ## Model Architecture
-The project leverages open-source models like Mistral or Llema, focusing on enhancing feature extraction techniques and integrating a robust classification layer. The models utilize contextual embeddings and self-attention mechanisms to achieve high accuracy in detection.
+The project leverages open-source models like Bert or RNN, focusing on enhancing feature extraction techniques and integrating a robust classification layer. The models utilize contextual embeddings and self-attention mechanisms to achieve high accuracy in detection.
 
 ## Expected Outcomes
 Our aim is to develop a classification system capable of distinguishing AI from human-generated texts with high precision and recall. This tool will be crucial for upholding the integrity of digital content, with potential applications in academic integrity and beyond.
